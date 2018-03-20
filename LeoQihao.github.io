@@ -11,7 +11,6 @@
    	你好，世界
    	<b/>
  </p >
-
  <p align="center"><a href=" " Sunset.jpg"><img src="Sunset.jpg">
  </a ></p >
 </html>
