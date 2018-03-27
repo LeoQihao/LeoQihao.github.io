@@ -1,6 +1,11 @@
 <!doctype html>
 <html> 
  <head> 
+
+<link rel="apple-touch-icon" href="1.jpg">
+
+<meta name="apple-mobile-web-app-title" content="奔驰涛">
+
  <title>网页标题</title> 
  </head> 
  <body> 
