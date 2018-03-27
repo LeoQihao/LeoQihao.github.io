@@ -18,8 +18,20 @@
  </p >
  <p align="center"><a href=" " Sunset.jpg"><img src="Sunset.jpg">
  </a ></p >
- <a href="tel:110">联系我方式:110</a>
-    <p><a href="mailto:1154412375@qq.com">E-mail:123456789@qq.com</a></p>
-    <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">联系qq:123456789</a>
-<p align="center"><a hrefu="https://j.map.baidu.com/jVneO" target="_blank"><img src="/125.jpg></a></p>
+
+ <p>
+ <a href="mailto:darkleef@126.com">咨询邮箱：123456@126.com</a>
+ </p>
+ </center>
+ <center>
+ <p>
+ <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">咨询QQ:123456</a>
+ </p>
+ </center>
+ <center>   
+ <p>
+ <a href="https://j.map.baidu.com/NwXZO" target="_blank"><img src="88.jpg">
+ </a> 
+ </p>
+</center> 
 </html>
