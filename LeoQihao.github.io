@@ -35,5 +35,5 @@
  </p>
 </center> 
 </html>
-<p align="center"><a href=" " 123.jpg"><img src="123.jpg">
+<p align="center"><a href=" " 123.png"><img src="123.png">
 </p>
